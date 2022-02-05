@@ -1,0 +1,8 @@
+export const GET_GAME = "GET_GAME"
+export const FILTER_CREATED = "FILTER_CREATED"
+export const ORDER_NAME= "ORDER_NAME"
+export const ORDER_RATING = "ORDER_RATING"
+export const GET_SEARCH = "GET_SEARCH"
+export const GET_GENRE = "GET_GENRE"
+export const FILTER_GENRE = "FILTER_GENRE"
+export const GET_ID = "GET_ID"
